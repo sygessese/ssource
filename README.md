@@ -1,3 +1,4 @@
+<pre>
 # Author 
 Selam Gessese
 
@@ -28,3 +29,4 @@ npm test # runs tests
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
+</pre>
