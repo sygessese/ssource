@@ -8,15 +8,20 @@ The API supports the following operations:
 
 Has - Determines if a zip code exists in the list. 
     GET /:zip
+
 Display - Shows the full list of zip codes with contiguous ranges grouped in a shortened form.
     GET /
+
 Insert - Add a new zip code to the list.
     POST /
+
 Delete - Remove a zip code from the list.
     DELETE /
 
+
 Utilize a service like Postman to send requests to the API
-Drag and drop the included Postman file to open a testing collection for this API
+
+Drag and drop the included file into Postman to open a testing collection for this API
 
 ## Installation
 Use the node package manager to install stacksource
@@ -30,3 +35,4 @@ npm test # runs tests
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
 </pre>
+
