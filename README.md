@@ -17,8 +17,10 @@ Insert - Add a new zip code to the list.
 Delete - Remove a zip code from the list.
     DELETE /
 
+
 Utilize a service like Postman to send requests to the API
-Drag and drop the included Postman file to open a testing collection for this API
+
+Drag and drop the included file into Postman to open a testing collection for this API
 
 ## Installation
 Use the node package manager to install stacksource
