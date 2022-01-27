@@ -2,7 +2,7 @@
 # Author 
 Selam Gessese
 
-# StackSource Software Engineering role coding challange submission 
+# StackSource Software Engineer 
 A remotely callable web-based API which can can be used to manage a list of 5 digit zip codes. 
 The API supports the following operations:
 <pre>
